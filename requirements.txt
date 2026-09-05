@@ -1,0 +1,6 @@
+streamlit==1.28.1
+sqlite3-python==1.0.0
+Pillow==10.0.1
+qrcode==7.4.2
+google-genai==0.3.0
+python-dateutil==2.8.2
